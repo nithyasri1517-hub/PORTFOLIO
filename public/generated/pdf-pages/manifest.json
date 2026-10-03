@@ -1,0 +1,497 @@
+{
+  "brand identity/Ads.pdf": {
+    "source": "brand identity/Ads.pdf",
+    "pages": [
+      {
+        "src": "/generated/pdf-pages/brand identity/Ads/page-001.webp",
+        "width": 1347,
+        "height": 1743
+      },
+      {
+        "src": "/generated/pdf-pages/brand identity/Ads/page-002.webp",
+        "width": 1347,
+        "height": 1743
+      },
+      {
+        "src": "/generated/pdf-pages/brand identity/Ads/page-003.webp",
+        "width": 1347,
+        "height": 1743
+      },
+      {
+        "src": "/generated/pdf-pages/brand identity/Ads/page-004.webp",
+        "width": 1347,
+        "height": 1743
+      }
+    ]
+  },
+  "brand identity/Business card (1).pdf": {
+    "source": "brand identity/Business card (1).pdf",
+    "pages": [
+      {
+        "src": "/generated/pdf-pages/brand identity/Business card (1)/page-001.webp",
+        "width": 555,
+        "height": 317
+      },
+      {
+        "src": "/generated/pdf-pages/brand identity/Business card (1)/page-002.webp",
+        "width": 555,
+        "height": 317
+      }
+    ]
+  },
+  "brand identity/Logo.pdf": {
+    "source": "brand identity/Logo.pdf",
+    "pages": [
+      {
+        "src": "/generated/pdf-pages/brand identity/Logo/page-001.webp",
+        "width": 2200,
+        "height": 2200
+      },
+      {
+        "src": "/generated/pdf-pages/brand identity/Logo/page-002.webp",
+        "width": 2200,
+        "height": 2200
+      },
+      {
+        "src": "/generated/pdf-pages/brand identity/Logo/page-003.webp",
+        "width": 2200,
+        "height": 2200
+      },
+      {
+        "src": "/generated/pdf-pages/brand identity/Logo/page-004.webp",
+        "width": 2200,
+        "height": 2200
+      },
+      {
+        "src": "/generated/pdf-pages/brand identity/Logo/page-005.webp",
+        "width": 2200,
+        "height": 2200
+      }
+    ]
+  },
+  "brand identity/menu.pdf": {
+    "source": "brand identity/menu.pdf",
+    "pages": [
+      {
+        "src": "/generated/pdf-pages/brand identity/menu/page-001.webp",
+        "width": 1311,
+        "height": 1853
+      }
+    ]
+  },
+  "brand identity/Moodboard.pdf": {
+    "source": "brand identity/Moodboard.pdf",
+    "pages": [
+      {
+        "src": "/generated/pdf-pages/brand identity/Moodboard/page-001.webp",
+        "width": 1782,
+        "height": 2228
+      }
+    ]
+  },
+  "brand identity/patterns.pdf": {
+    "source": "brand identity/patterns.pdf",
+    "pages": [
+      {
+        "src": "/generated/pdf-pages/brand identity/patterns/page-001.webp",
+        "width": 2200,
+        "height": 2200
+      }
+    ]
+  },
+  "brand identity/photos and package.pdf": {
+    "source": "brand identity/photos and package.pdf",
+    "pages": [
+      {
+        "src": "/generated/pdf-pages/brand identity/photos and package/page-001.webp",
+        "width": 1616,
+        "height": 903
+      },
+      {
+        "src": "/generated/pdf-pages/brand identity/photos and package/page-002.webp",
+        "width": 1616,
+        "height": 903
+      },
+      {
+        "src": "/generated/pdf-pages/brand identity/photos and package/page-003.webp",
+        "width": 1616,
+        "height": 903
+      },
+      {
+        "src": "/generated/pdf-pages/brand identity/photos and package/page-004.webp",
+        "width": 1616,
+        "height": 903
+      }
+    ]
+  },
+  "brand identity/posts.pdf": {
+    "source": "brand identity/posts.pdf",
+    "pages": [
+      {
+        "src": "/generated/pdf-pages/brand identity/posts/page-001.webp",
+        "width": 1782,
+        "height": 2228
+      },
+      {
+        "src": "/generated/pdf-pages/brand identity/posts/page-002.webp",
+        "width": 1782,
+        "height": 2228
+      },
+      {
+        "src": "/generated/pdf-pages/brand identity/posts/page-003.webp",
+        "width": 1782,
+        "height": 2228
+      },
+      {
+        "src": "/generated/pdf-pages/brand identity/posts/page-004.webp",
+        "width": 1782,
+        "height": 2228
+      },
+      {
+        "src": "/generated/pdf-pages/brand identity/posts/page-005.webp",
+        "width": 1782,
+        "height": 2228
+      }
+    ]
+  },
+  "brand identity/Receipt.pdf": {
+    "source": "brand identity/Receipt.pdf",
+    "pages": [
+      {
+        "src": "/generated/pdf-pages/brand identity/Receipt/page-001.webp",
+        "width": 656,
+        "height": 923
+      }
+    ]
+  },
+  "brand identity/Thank You Card.pdf": {
+    "source": "brand identity/Thank You Card.pdf",
+    "pages": [
+      {
+        "src": "/generated/pdf-pages/brand identity/Thank You Card/page-001.webp",
+        "width": 923,
+        "height": 656
+      },
+      {
+        "src": "/generated/pdf-pages/brand identity/Thank You Card/page-002.webp",
+        "width": 923,
+        "height": 656
+      }
+    ]
+  },
+  "content and social media management/quickzaps (4).pdf": {
+    "source": "content and social media management/quickzaps (4).pdf",
+    "pages": [
+      {
+        "src": "/generated/pdf-pages/content and social media management/quickzaps (4)/page-001.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/generated/pdf-pages/content and social media management/quickzaps (4)/page-002.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/generated/pdf-pages/content and social media management/quickzaps (4)/page-003.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/generated/pdf-pages/content and social media management/quickzaps (4)/page-004.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/generated/pdf-pages/content and social media management/quickzaps (4)/page-005.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/generated/pdf-pages/content and social media management/quickzaps (4)/page-006.webp",
+        "width": 2200,
+        "height": 1238
+      }
+    ]
+  },
+  "editorial/_RED.pdf": {
+    "source": "editorial/_RED.pdf",
+    "pages": [
+      {
+        "src": "/generated/pdf-pages/editorial/_RED/page-001.webp",
+        "width": 2200,
+        "height": 2200
+      },
+      {
+        "src": "/generated/pdf-pages/editorial/_RED/page-002.webp",
+        "width": 2200,
+        "height": 2200
+      },
+      {
+        "src": "/generated/pdf-pages/editorial/_RED/page-003.webp",
+        "width": 2200,
+        "height": 2200
+      },
+      {
+        "src": "/generated/pdf-pages/editorial/_RED/page-004.webp",
+        "width": 2200,
+        "height": 2200
+      },
+      {
+        "src": "/generated/pdf-pages/editorial/_RED/page-005.webp",
+        "width": 2200,
+        "height": 2200
+      },
+      {
+        "src": "/generated/pdf-pages/editorial/_RED/page-006.webp",
+        "width": 2200,
+        "height": 2200
+      },
+      {
+        "src": "/generated/pdf-pages/editorial/_RED/page-007.webp",
+        "width": 2200,
+        "height": 2200
+      },
+      {
+        "src": "/generated/pdf-pages/editorial/_RED/page-008.webp",
+        "width": 2200,
+        "height": 2200
+      }
+    ]
+  },
+  "experimental/ash.pdf": {
+    "source": "experimental/ash.pdf",
+    "pages": [
+      {
+        "src": "/generated/pdf-pages/experimental/ash/page-001.webp",
+        "width": 1347,
+        "height": 1743
+      }
+    ]
+  },
+  "experimental/book.pdf": {
+    "source": "experimental/book.pdf",
+    "pages": [
+      {
+        "src": "/generated/pdf-pages/experimental/book/page-001.webp",
+        "width": 1347,
+        "height": 1743
+      }
+    ]
+  },
+  "experimental/euphoria.pdf": {
+    "source": "experimental/euphoria.pdf",
+    "pages": [
+      {
+        "src": "/generated/pdf-pages/experimental/euphoria/page-001.webp",
+        "width": 1347,
+        "height": 1743
+      }
+    ]
+  },
+  "experimental/fashion.pdf": {
+    "source": "experimental/fashion.pdf",
+    "pages": [
+      {
+        "src": "/generated/pdf-pages/experimental/fashion/page-001.webp",
+        "width": 1347,
+        "height": 1743
+      }
+    ]
+  },
+  "fashion/pcera (1).pdf": {
+    "source": "fashion/pcera (1).pdf",
+    "pages": [
+      {
+        "src": "/generated/pdf-pages/fashion/pcera (1)/page-001.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/generated/pdf-pages/fashion/pcera (1)/page-002.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/generated/pdf-pages/fashion/pcera (1)/page-003.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/generated/pdf-pages/fashion/pcera (1)/page-004.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/generated/pdf-pages/fashion/pcera (1)/page-005.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/generated/pdf-pages/fashion/pcera (1)/page-006.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/generated/pdf-pages/fashion/pcera (1)/page-007.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/generated/pdf-pages/fashion/pcera (1)/page-008.webp",
+        "width": 2200,
+        "height": 1238
+      }
+    ]
+  },
+  "social media/hod/hod icon.pdf": {
+    "source": "social media/hod/hod icon.pdf",
+    "pages": [
+      {
+        "src": "/generated/pdf-pages/social media/hod/hod icon/page-001.webp",
+        "width": 825,
+        "height": 825
+      }
+    ]
+  },
+  "social media/hod/hod.pdf": {
+    "source": "social media/hod/hod.pdf",
+    "pages": [
+      {
+        "src": "/generated/pdf-pages/social media/hod/hod/page-001.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/generated/pdf-pages/social media/hod/hod/page-002.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/generated/pdf-pages/social media/hod/hod/page-003.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/generated/pdf-pages/social media/hod/hod/page-004.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/generated/pdf-pages/social media/hod/hod/page-005.webp",
+        "width": 2200,
+        "height": 1238
+      }
+    ]
+  },
+  "social media/rmc/rmc (2).pdf": {
+    "source": "social media/rmc/rmc (2).pdf",
+    "pages": [
+      {
+        "src": "/generated/pdf-pages/social media/rmc/rmc (2)/page-001.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/generated/pdf-pages/social media/rmc/rmc (2)/page-002.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/generated/pdf-pages/social media/rmc/rmc (2)/page-003.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/generated/pdf-pages/social media/rmc/rmc (2)/page-004.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/generated/pdf-pages/social media/rmc/rmc (2)/page-005.webp",
+        "width": 2200,
+        "height": 1238
+      }
+    ]
+  },
+  "social media/rmc/rmc icon.pdf": {
+    "source": "social media/rmc/rmc icon.pdf",
+    "pages": [
+      {
+        "src": "/generated/pdf-pages/social media/rmc/rmc icon/page-001.webp",
+        "width": 825,
+        "height": 825
+      }
+    ]
+  },
+  "social media/vivere arte/vivere arte icon.pdf": {
+    "source": "social media/vivere arte/vivere arte icon.pdf",
+    "pages": [
+      {
+        "src": "/generated/pdf-pages/social media/vivere arte/vivere arte icon/page-001.webp",
+        "width": 825,
+        "height": 825
+      }
+    ]
+  },
+  "social media/vivere arte/vivere arte.pdf": {
+    "source": "social media/vivere arte/vivere arte.pdf",
+    "pages": [
+      {
+        "src": "/generated/pdf-pages/social media/vivere arte/vivere arte/page-001.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/generated/pdf-pages/social media/vivere arte/vivere arte/page-002.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/generated/pdf-pages/social media/vivere arte/vivere arte/page-003.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/generated/pdf-pages/social media/vivere arte/vivere arte/page-004.webp",
+        "width": 2200,
+        "height": 1238
+      }
+    ]
+  },
+  "social media/zion/zion icon.pdf": {
+    "source": "social media/zion/zion icon.pdf",
+    "pages": [
+      {
+        "src": "/generated/pdf-pages/social media/zion/zion icon/page-001.webp",
+        "width": 825,
+        "height": 825
+      }
+    ]
+  },
+  "social media/zion/zion.pdf": {
+    "source": "social media/zion/zion.pdf",
+    "pages": [
+      {
+        "src": "/generated/pdf-pages/social media/zion/zion/page-001.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/generated/pdf-pages/social media/zion/zion/page-002.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/generated/pdf-pages/social media/zion/zion/page-003.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "/generated/pdf-pages/social media/zion/zion/page-004.webp",
+        "width": 2200,
+        "height": 1238
+      }
+    ]
+  }
+}

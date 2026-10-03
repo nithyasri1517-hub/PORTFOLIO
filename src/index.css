@@ -1,0 +1,104 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: dark;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+    background-color: #0b0908;
+    color: #f5f2eb;
+    font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+
+  body {
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* Hide default browser cursor so only the single custom circle cursor is visible */
+  @media (hover: hover) and (pointer: fine) {
+    *, *::before, *::after, a, button, input, select, textarea {
+      cursor: none !important;
+    }
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0e0c0b;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #292524;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #c91f1f;
+}
+
+/* Glassmorphism Styles */
+.glass-nav {
+  background: rgba(18, 16, 15, 0.65);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glass-card {
+  background: rgba(22, 19, 18, 0.55);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.glass-pill {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Typography Enhancements */
+.font-editorial-script {
+  font-family: 'Pinyon Script', cursive;
+}
+
+.font-editorial-serif {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+}
+
+.font-editorial-display {
+  font-family: 'Syne', sans-serif;
+}
+
+/* Page flip container styling */
+.flipbook-container {
+  box-shadow: 0 30px 80px -15px rgba(0, 0, 0, 0.9), 0 0 40px rgba(201, 31, 31, 0.15);
+}
+
+.stf__wrapper {
+  position: relative;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.page-flip-page {
+  box-shadow: inset 0 0 30px rgba(0, 0, 0, 0.3);
+  background-color: #12100f;
+}
+
+/* Grain texture overlay */
+.editorial-grain {
+  background-image: radial-gradient(rgba(255, 255, 255, 0.04) 1px, transparent 0);
+  background-size: 24px 24px;
+}
